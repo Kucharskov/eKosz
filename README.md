@@ -32,9 +32,9 @@ Do realizacji projektu z części programowania w języku C użyto modułu ESP82
 * S90 – serwomechanizm modelarski.
 
 <p align="center">
-![Cały układ](https://github.com/Kucharskov/eKosz/blob/master/images/circuit.png?raw=true)
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit.png?raw=true">
 Płytka prototypowa z elementami użytymi w projekcie
-![Układ zamontowany w obudowie](https://github.com/Kucharskov/eKosz/blob/master/images/circuit_mount.png?raw=true)
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit_mount.png?raw=true">
 Płytka prototypowa założona w obudowie kubła
 </p>
 
@@ -44,9 +44,9 @@ Urządzenie po podłączeniu zasilania uruchamia Hotspot „eKosz” na czas okr
 * wyświetlanie bieżących danych dostępnych czujników,
 
 <p align="center">
-![Menu konfiguracji WiFi](https://github.com/Kucharskov/eKosz/blob/master/images/wifi_config.png?raw=true)
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/wifi_config.png?raw=true">
 Menu konfiguracji WiFi dostępne z poziomu przeglądarki po podączeniu się pod hotspot "eKosz"
-![Serwowana strona WWW](https://github.com/Kucharskov/eKosz/blob/master/images/webpage.png?raw=true)
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/webpage.png?raw=true">
 Serwowana strona WWW dostępna po podłączeniu urządzenia do docelowej sieci lokalnej
 </p>
 
@@ -64,13 +64,13 @@ gdzie w razie napotkanych wyjątków zgłaszane są do użytkownika stosowne kom
 - rozłączenie w celu nawiązania połączenia z innym urządzeniem.
 
 <p align="center">
-![Działająca aplikacja](https://github.com/Kucharskov/eKosz/blob/master/images/ekoszapp.png?raw=true)
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/ekoszapp.png?raw=true">
 Zrzut działajacej aplikacji eKoszApp
 </p>
 
 ## Ostateczny efekt
 <p align="center">
-![Całe urządzenie](https://github.com/Kucharskov/eKosz/blob/master/images/ekosz.png?raw=true)
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/ekosz.png?raw=true">
 </p>
 
 > **Notka:** Repozytorium w celach archiwalnych, nie zanosi się na wprowadzanie poprawek :)
