@@ -10,7 +10,7 @@ Projekt został wykonany przez studentów Politechniki Śląskiej na wydziale Wy
 ## Założenia
 Część pierwsza dotycząca przedmiotu "Zaawansowane programowanie w języku C":
 * realizacja i umieszczenie wszystkich danych jedynie na pamięci mikrokontrolera,
-* realizacja kodu w sposób naprzemienny(przeplot) pomimo jednego wątku układu,
+* realizacja kodu w sposób naprzemienny (przeplot) pomimo jednego wątku układu,
 * łatwość modyfikacji ustawień w kodzie,
 * prostota dodawania kolejnych elementów,
 * prostota i łatwość użycia przez zewnętrznego użytkownika.
@@ -39,14 +39,14 @@ Płytka prototypowa z elementami użytymi w projekcie<br>
 Płytka prototypowa założona w obudowie kubła
 </p>
 
-Urządzenie po podłączeniu zasilania uruchamia Hotspot „eKosz” na czas określony z góry (300s) w celu konfiguracji urządzenia. W przypadku braku konfiguracji urządzenie przechodzi w tryb uśpienia, wyłączając hotspot oraz usypiając wszystkie czujniki.Natomiast po konfiguracji, którą jest podłączenie urządzenia do zadanej sieci WiFi zaprojektowane oprogramowanie pozwala na:
+Urządzenie po podłączeniu zasilania uruchamia Hotspot „eKosz” na czas określony z góry (300s) w celu konfiguracji urządzenia. W przypadku braku konfiguracji urządzenie przechodzi w tryb uśpienia, wyłączając hotspot oraz usypiając wszystkie czujniki. Natomiast po konfiguracji, którą jest podłączenie urządzenia do zadanej sieci WiFi zaprojektowane oprogramowanie pozwala na:
 * sprawdzenie stanu urządzenia(pozycja klapy, ilość otwarć, poziom wypełnienia),
 * otwarcie i zamknięcie klapy „eKosza”,
-* wyświetlanie bieżących danych dostępnych czujników,
+* wyświetlanie bieżących danych dostępnych czujników.
 
 <p align="center">
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/wifi_config.png?raw=true"><br>
-Menu konfiguracji WiFi dostępne z poziomu przeglądarki po podączeniu się pod hotspot "eKosz"<br>
+Menu konfiguracji WiFi dostępne z poziomu przeglądarki po podłączeniu się pod hotspot "eKosz"<br>
 <br>
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/webpage.png?raw=true"><br>
 Serwowana strona WWW dostępna po podłączeniu urządzenia do docelowej sieci lokalnej
