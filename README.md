@@ -75,4 +75,9 @@ Zrzut działajacej aplikacji eKoszApp
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/ekosz.png?raw=true">
 </p>
 
+<p align="center">
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/np_award.png?raw=true"><br>
+Zdobyte przez projekt odznaczenie jako "Projekt Miesiąca" na grupie <a href="https://www.facebook.com/groups/NastoletniProgramisci" target="_blank">Nastoletni Programiści</a>.<br>(Michał Kucharski wpisany jako autor jako osoba zgłaszająca)
+</p>
+
 > **Notka:** Repozytorium w celach archiwalnych, nie zanosi się na wprowadzanie poprawek :)
