@@ -34,6 +34,7 @@ Do realizacji projektu z części programowania w języku C użyto modułu ESP82
 <p align="center">
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit.png?raw=true"><br>
 Płytka prototypowa z elementami użytymi w projekcie<br>
+<br>
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit_mount.png?raw=true"><br>
 Płytka prototypowa założona w obudowie kubła
 </p>
@@ -46,6 +47,7 @@ Urządzenie po podłączeniu zasilania uruchamia Hotspot „eKosz” na czas okr
 <p align="center">
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/wifi_config.png?raw=true"><br>
 Menu konfiguracji WiFi dostępne z poziomu przeglądarki po podączeniu się pod hotspot "eKosz"<br>
+<br>
 <img src="https://github.com/Kucharskov/eKosz/blob/master/images/webpage.png?raw=true"><br>
 Serwowana strona WWW dostępna po podłączeniu urządzenia do docelowej sieci lokalnej
 </p>
