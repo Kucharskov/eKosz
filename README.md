@@ -32,9 +32,9 @@ Do realizacji projektu z części programowania w języku C użyto modułu ESP82
 * S90 – serwomechanizm modelarski.
 
 <p align="center">
-<img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit.png?raw=true">
-Płytka prototypowa z elementami użytymi w projekcie
-<img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit_mount.png?raw=true">
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit.png?raw=true"><br>
+Płytka prototypowa z elementami użytymi w projekcie<br>
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/circuit_mount.png?raw=true"><br>
 Płytka prototypowa założona w obudowie kubła
 </p>
 
@@ -44,9 +44,9 @@ Urządzenie po podłączeniu zasilania uruchamia Hotspot „eKosz” na czas okr
 * wyświetlanie bieżących danych dostępnych czujników,
 
 <p align="center">
-<img src="https://github.com/Kucharskov/eKosz/blob/master/images/wifi_config.png?raw=true">
-Menu konfiguracji WiFi dostępne z poziomu przeglądarki po podączeniu się pod hotspot "eKosz"
-<img src="https://github.com/Kucharskov/eKosz/blob/master/images/webpage.png?raw=true">
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/wifi_config.png?raw=true"><br>
+Menu konfiguracji WiFi dostępne z poziomu przeglądarki po podączeniu się pod hotspot "eKosz"<br>
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/webpage.png?raw=true"><br>
 Serwowana strona WWW dostępna po podłączeniu urządzenia do docelowej sieci lokalnej
 </p>
 
@@ -64,7 +64,7 @@ gdzie w razie napotkanych wyjątków zgłaszane są do użytkownika stosowne kom
 - rozłączenie w celu nawiązania połączenia z innym urządzeniem.
 
 <p align="center">
-<img src="https://github.com/Kucharskov/eKosz/blob/master/images/ekoszapp.png?raw=true">
+<img src="https://github.com/Kucharskov/eKosz/blob/master/images/ekoszapp.png?raw=true"><br>
 Zrzut działajacej aplikacji eKoszApp
 </p>
 
